@@ -18,7 +18,7 @@
 6. Changer la méthode du formulaire et soumettre des données. Constater que Firebug/Réseau permet toujours de visualiser les données envoyées alors qu'elles ne sont plus visibles dans la barre d'adresse.
 7. Est-il possible d'utiliser plusieurs boutons de soumission dans un même formulaire ?
 
-###Exercice 2 : display_ACorriger.html
+### Exercice 2 : display_ACorriger.html
 
 **Objectif : Comprendre la manière dont le navigateur construit le DOM, découvrir les premières interactions en javascript**
 
@@ -27,7 +27,7 @@
 3.  Afficher et cacher tour à tour les boutons pour qu'il n'y en ait toujours qu'un seul visible à la fois.
 4. Supprimer un bouton et modifier le code pour que le même bouton puisse servir à cacher/afficher. Utiliser le mot-clé « this ».
 
-###Exercice 3 : TryIt Editor
+### Exercice 3 : TryIt Editor
 
 Nous souhaitons implémenter le formulaire proposé sur le site de W3Schools permettant de tester la syntaxe des langages HTML et CSS.
 
@@ -39,7 +39,7 @@ Nous souhaitons implémenter le formulaire proposé sur le site de W3Schools per
 * On informera l'utilisateur que quelquechose se passe en affichant une image de chargement (que l'on peut récupérer sur le site ajaxload.com), en s'arrangeant pour qu'elle soit visible suffisamment longtemps.
 * On désactivera la mise à jour automatique en utilisant la touche « ESC »
 
-###Exercice 4 : Les paragraphes magiques
+### Exercice 4 : Les paragraphes magiques
 
 Nous souhaitons que certains paragraphes de notre page deviennent éditables lorsqu'on les clique.
 
@@ -49,7 +49,7 @@ Nous souhaitons que certains paragraphes de notre page deviennent éditables lor
 4. L’édition se termine lors de l’appui sur la touche ‘ESC’
 5. Lors du survol d'un paragraphe, une croix s'affiche pour pouvoir le supprimer si on clique dessus
 
-###Exercice 5 : Formulaire de création de compte
+### Exercice 5 : Formulaire de création de compte
 
 Nous souhaitons construire un formulaire de création de compte en facilitant la tâche de l'utilisateur. Nous lui suggérerons un mot de passe et lui indiquerons si ses identifiants correspondent bien aux contraintes qui lui sont imposées : choisir au moins une lettre minuscule, une lettre majuscule et un chiffre pour son mot de passe, entre 6 et 8 lettres pour son login. Tous les champs texte devront être remplis.
 
